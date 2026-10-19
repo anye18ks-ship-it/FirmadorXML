@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scia>
+   <bd>
+      <server>172.16.4.14</server>
+      <usersvr>sa</usersvr>
+      <passsvr>@Gr0f3m</passsvr>
+      <bdscia>cms</bdscia>
+	  <port>1433</port>
+	  <SAPServer>diamante</SAPServer>
+	  <SAPCompanyDB>SBO_AGROFEM</SAPCompanyDB>
+	  <SAPUserName>manager</SAPUserName>
+	  <SAPPassword>a2509</SAPPassword> 
+	  <SAPLicenseServer>diamante:30000</SAPLicenseServer>
+   </bd>
+</scia>
